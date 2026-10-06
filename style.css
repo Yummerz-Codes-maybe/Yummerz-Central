@@ -4,8 +4,9 @@ body {
   background-position: center;
   background-size: cover}
 .aaa {
-  align: left
-  width="100px"
+  align: left;
+  width: 300px;
+  height: 150px;
 
   
 }
