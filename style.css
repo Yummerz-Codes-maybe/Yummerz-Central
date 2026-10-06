@@ -1,2 +1,5 @@
 body {
-  background-image: url("images/backgroundmobile.jpg")}
+  background-image: url("images/backgroundmobile.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover}
